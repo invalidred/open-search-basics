@@ -1,0 +1,5 @@
+extraEnvs:
+  - name: OPENSEARCH_INITIAL_ADMIN_PASSWORD
+    value: "vgh4UYU*qya6xvz0ekx" 
+  - name: DISABLE_INSTALL_DEMO_CONFIG
+    value: "false"
