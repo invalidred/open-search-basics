@@ -1,5 +1,5 @@
 # open-search-basics
-Learn open search basiscs
+Learn open search basics
 
 ## Setup
 
